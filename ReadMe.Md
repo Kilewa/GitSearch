@@ -84,6 +84,10 @@ http://localhost:4200/
 
 5. CSS
 
+## Contributors
+
+George Kilewa.
+
 ## Development server
 ---
 
@@ -102,6 +106,8 @@ https://kilewa.github.io/kilewa.github.io/GitSearch/
 ```
 
 ## Support and Contact
+
+feel free to comment/ report issues through:
 
 Email Address: kilewageorge230@gmail.com
 
