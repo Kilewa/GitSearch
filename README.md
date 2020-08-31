@@ -119,8 +119,6 @@ https://kilewa.github.io/gitearch--Update-Angular-cli-10/
 ## Support and Contact
 ---
 
--Mobile number: (+254) 798731203
-
 -Email Address:kilewageorge230@gmail.com
 
 -github-username: kilewa
