@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Github-API-Search": {
+    "GitSearch": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -127,5 +127,5 @@
       }
     }
   },
-  "defaultProject": "Github-API-Search"
+  "defaultProject": "GitSearch"
 }
