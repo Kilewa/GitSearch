@@ -1,8 +1,8 @@
 # gitSearch
 
-## This app is called [Github Search:mag:](https://kilewa.github.io/gitSearch).
+## This app is called [gitSearch:mag:](https://kilewa.github.io/gitSearch).
 
-### **This project was done using ANGULAR-Cli Version 7.** 
+### **This project was done using ANGULAR-Cli Version 10.** 
 
 ### **An update to a previous version in Angular-JS.**
 
@@ -121,7 +121,7 @@ https://kilewa.github.io/gitearch--Update-Angular-cli-10/
 
 -Mobile number: (+254) 798731203
 
--Email Address: collo.kilewageorge230@gmail.com
+-Email Address:kilewageorge230@gmail.com
 
 -github-username: kilewa
 
