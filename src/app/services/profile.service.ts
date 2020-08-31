@@ -6,8 +6,8 @@ import { map } from 'rxjs/operators';
 export class ProfileService {
 
   private username: string;
-  private clientid = '203dd913322b3db7d987';
-  private clientsecret = '020c0b3665296b33d758edeeced30473ef44f7da';
+  private clientid = '11e84999cb5dde398f30';
+  private clientsecret = 'fd62f4be59b312f30a3d525b13c5773fa0136c3a';
 
 
   constructor(private http: Http) {
@@ -21,7 +21,7 @@ export class ProfileService {
     }
     // tslint:disable-next-line:max-line-length
     return this.http.get('https://api.github.com/users/' + this.username + '?client_id=' + this.clientid + '&client_secret=' + this.clientsecret)
-     .pipe(map(res => res.json()));
+      .pipe(map(res => res.json()));
   }
 
   getProfileRepos() {
