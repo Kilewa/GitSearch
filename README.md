@@ -1,17 +1,8 @@
 # gitSearch
 
-## This app is called [gitSearch:mag:](https://kilewa.github.io/gitSearch).
+## This app is called [gitSearch:mag:](https://kilewa.github.io/GitSearch/.
 
 ### **This project was done using ANGULAR-Cli Version 10.** 
-
-### **An update to a previous version in Angular-JS.**
-
-#### ***Checkout the link for the older Version in Angular-JS*** :point_down:
-
--> ```https://github.com/kilewa/Github-API-Search-AngularJS```
-
-#### [Checkout Deployed Site At :mag:](https://kilewa.github.io/gitSearch--Update-Angular-cli-10/)
-
 
 # DESCRIPTION
 
@@ -109,11 +100,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 App was deployed to [Github Pages](https://pages.github.com/) using Angular Cli, by publishing the **dist/** folder.
 
-Link to Deployed [Github Search:mag:](https://kilewa.github.io/gitSearch--Update-Angular-cli-7/)
+Link to Deployed [Github Search:mag:](https://khttps://kilewa.github.io/GitSearch/)
 
 
 ```
-https://kilewa.github.io/gitearch--Update-Angular-cli-10/
+https://https://kilewa.github.io/GitSearch/
 ```
 
 ## Support and Contact
