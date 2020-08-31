@@ -1,6 +1,6 @@
-# Github-API-Search--Update-Angular-cli-7
+# gitSearch
 
-## This app is called [Github Search:mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/).
+## This app is called [Github Search:mag:](https://kilewa.github.io/gitSearch).
 
 ### **This project was done using ANGULAR-Cli Version 7.** 
 
@@ -8,14 +8,10 @@
 
 #### ***Checkout the link for the older Version in Angular-JS*** :point_down:
 
--> ```https://github.com/zecollokaris/Github-API-Search-AngularJS```
+-> ```https://github.com/kilewa/Github-API-Search-AngularJS```
 
-#### [Checkout Deployed Site At :mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/)
+#### [Checkout Deployed Site At :mag:](https://kilewa.github.io/gitSearch--Update-Angular-cli-10/)
 
-
-# DISPLAY
-
-![](Spec.md/GithubSearch.png)
 
 # DESCRIPTION
 
@@ -41,7 +37,7 @@ This include the following mentioned however below however if you dont have the 
 
 You can check out the link below for installation instructions!
 
-Link~  ```https://github.com/zecollokaris/Installation```
+Link~  ```https://github.com/kilewa/Installation```
 
 
 - Node.js
@@ -64,9 +60,9 @@ If you dont have this requirements you could use the link above to help with the
 
 2. You will also need a Webpage URL to load in URL's:
 
-3. To get to use **GIT-SEARCH** fist you need to get to the Github-API-Search--Update-Angular-cli-7 repository. 
+3. To get to use **GIT-SEARCH** fist you need to get to the gitSearch. 
 
-Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update-Angular-cli-7```
+Link:-> ```https://github.com/kilewa/Github-API-Search--Update-Angular-cli-7```
 
 4. From there you can access Git-search.
 
@@ -93,7 +89,7 @@ http://localhost:4200/
 
 # TECHNOLOGIES USED
 
-1. Angular Version7 (Framework)
+1. Angular(Framework)
 
 2. Type Script
 
@@ -113,11 +109,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 App was deployed to [Github Pages](https://pages.github.com/) using Angular Cli, by publishing the **dist/** folder.
 
-Link to Deployed [Github Search:mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/)
+Link to Deployed [Github Search:mag:](https://kilewa.github.io/gitSearch--Update-Angular-cli-7/)
 
 
 ```
-https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/
+https://kilewa.github.io/gitearch--Update-Angular-cli-10/
 ```
 
 ## Support and Contact
@@ -125,9 +121,9 @@ https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/
 
 -Mobile number: (+254) 798731203
 
--Email Address: collo.kariss@gmail.com
+-Email Address: collo.kilewageorge230@gmail.com
 
--github-username: zecollokaris
+-github-username: kilewa
 
 ## License
 ---
