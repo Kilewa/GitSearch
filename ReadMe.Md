@@ -1,21 +1,6 @@
-# Github-API-Search--Update-Angular-cli-7
+# GitSearch
 
-## This app is called [Github Search:mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/).
-
-### **This project was done using ANGULAR-Cli Version 7.** 
-
-### **An update to a previous version in Angular-JS.**
-
-#### ***Checkout the link for the older Version in Angular-JS*** :point_down:
-
--> ```https://github.com/zecollokaris/Github-API-Search-AngularJS```
-
-#### [Checkout Deployed Site At :mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/)
-
-
-# DISPLAY
-
-![](Spec.md/GithubSearch.png)
+### **This project was done using ANGULAR-Cli Version 10** 
 
 # DESCRIPTION
 
@@ -41,12 +26,12 @@ This include the following mentioned however below however if you dont have the 
 
 You can check out the link below for installation instructions!
 
-Link~  ```https://github.com/zecollokaris/Installation```
+Link~  ```https://github.com/kilewa/Installation```
 
 
 - Node.js
 
-- Angular-JS framework
+- Angular  framework
 
 - Watchman
 
@@ -64,19 +49,15 @@ If you dont have this requirements you could use the link above to help with the
 
 2. You will also need a Webpage URL to load in URL's:
 
-3. To get to use **GIT-SEARCH** fist you need to get to the Github-API-Search--Update-Angular-cli-7 repository. 
+3. From there you can access Git-search.
 
-Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update-Angular-cli-7```
+4. **Clone** the project.
 
-4. From there you can access Git-search.
+5. Once you done with cloning and project is on your device.
 
-5. **Clone** the project.
+6. get into project folder (cd into project).
 
-6. Once you done with cloning and project is on your device.
-
-7. get into project folder (cd into project).
-
-8. On your **bash** terminal Run the command:- 
+7. On your **bash** terminal Run the command:- 
 
 ```
 ng serve
@@ -88,12 +69,12 @@ ng serve
 http://localhost:4200/
 ```
 
-10. This will load for you Github Search as long as your requirements are satisfied.
+10. This will load for you GitSearch as long as your requirements are satisfied.
 
 
 # TECHNOLOGIES USED
 
-1. Angular Version7 (Framework)
+1. Angular Version 10 (Framework)
 
 2. Type Script
 
@@ -113,25 +94,39 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 App was deployed to [Github Pages](https://pages.github.com/) using Angular Cli, by publishing the **dist/** folder.
 
-Link to Deployed [Github Search:mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/)
+Link to Deployed [Github Search:mag:](https://kilewa.github.io/GitSearch/)
 
 
 ```
-https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/
+https://kilewa.github.io/kilewa.github.io/GitSearch/
 ```
 
 ## Support and Contact
----
 
--Mobile number: (+254) 798731203
+Email Address: kilewageorge230@gmail.com
 
--Email Address: collo.kariss@gmail.com
-
--github-username: zecollokaris
+github-username: kilewa
 
 ## License
----
 
-The app is licensed by MIT.
+MIT License
 
-MIT (c) 2018
+Copyright (c) 2020 George Kilewa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
